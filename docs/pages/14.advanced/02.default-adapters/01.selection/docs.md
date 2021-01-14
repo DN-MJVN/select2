@@ -36,4 +36,4 @@ This decorator implements [clearable selections](/selections#clearable-selection
 
 `select2/selection/eventRelay`
 
-Select2 has an internal event system that is used to notify parts of the component that state has changed, as well as an adapter that allows some of these events to be relayed to the outside word.
+Select2 has an internal event system that is used to notify parts of the component that state has changed, as well as an adapter that allows some of these events to be relayed to the outside world.
